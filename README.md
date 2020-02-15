@@ -5,6 +5,7 @@ ___
 ___
 
 Analysis of positions based on FEN, putting results in database, query said results through a REST API.
+https://www.youtube.com/watch?v=CVuTCrLeq-Y
 
 __Tasks done:__
 1. database creation automation
